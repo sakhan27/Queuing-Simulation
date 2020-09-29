@@ -1,0 +1,46 @@
+Script started on Tue 04 Aug 2020 11:18:15 PM CDT
+[?1034hbash-4.2$ g+[K[Kpwd
+/home/STCLOUDSTATE/vi4362xq/Project8
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ g++ Project8.cpp
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ /[K./a.out
+Processing an arrival event at time: 	1
+Processing an arrival event at time: 	2
+Processing an arrival event at time: 	4
+Processing a departure event at time: 	6
+Processing a departure event at time: 	11
+Processing a departure event at time: 	16
+Processing an arrival event at time: 	20
+Processing an arrival event at time: 	22
+Processing an arrival event at time: 	24
+Processing a departure event at time: 	25
+Processing an arrival event at time: 	26
+Processing an arrival event at time: 	28
+Processing an arrival event at time: 	30
+Processing a departure event at time: 	30
+Processing a departure event at time: 	35
+Processing a departure event at time: 	40
+Processing a departure event at time: 	45
+Processing a departure event at time: 	50
+Processing an arrival event at time: 	88
+Processing a departure event at time: 	91
+Simulation ends.
+
+Final Statistics: 
+	Total number of customers processed: 10
+	Average amount of time spent waiting: 5.6
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ exit
+
+Script done on Tue 04 Aug 2020 11:18:32 PM CDT
